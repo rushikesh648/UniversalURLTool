@@ -16,5 +16,5 @@ This tool is a single Python file, so you can simply download `url_tool.py` and 
 
 ```bash
 # Clone the repository (if this were a real repo)
-git clone https://github.com/yourusername/UniversalURLTool.git
+git clone https://github.com/rushikesh648/UniversalURLTool
 cd UniversalURLTool
